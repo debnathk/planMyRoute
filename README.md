@@ -7,6 +7,9 @@ The travelling salesman problem, also known as the travelling salesperson proble
 
 For our use case, a 'city' is the location of a dealer in Kolkata, and the source city is our shop. Thus, we have to find the shortest route, starting from our shop, visiting each location of dealers, and returning back to our shop. Solving this problem will solve the issues like tired deilvery person, extensive time required to achieve the delivery targets set for each day, and high fuel usage.
 
+## Data Collection
+Working...
+
 ## Strategies/tools used by different companies:
 - ORION (UPS)
     - ORION (On-Road Integrated Optimization and Navigation) is a proprietary software by UPS for efficient route planning for multi-driver-multi-stop routes.

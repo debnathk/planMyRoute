@@ -15,16 +15,9 @@ For our use case, a 'city' is the location of a dealer in Kolkata, and the sourc
         - Geospatial algorithms for complex metaheuristics.
         - Algorithms for vehicle routing and scheduling.
         - A routing engine that assists operators in hasslefree parking, loading-unoading and other issues.
-
-Installation of localserver:
-```
-pip install localsolver -i https://pip.hexaly.com
-```
-
-Run the code:
-```
-python tsp.py instances/br17.atsp
-```
+- Hexaley
+    - Formerly LocalServer, Heaxley is a optimization solver for Routing, Scheduling, Packing, and more.
+    - It provides industry scale optimization solutions, including TSP solver.
 
 ## References
 - [Travelling Salesman Problem (TSP)](https://www.hexaly.com/docs/last/exampletour/tsp.html#)

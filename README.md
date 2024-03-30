@@ -4,7 +4,12 @@ Delivery companies always use this type of tools for efficient delivery plans. H
 
 Strategies used by different companies:
 - ORION (UPS)
-    - Write here
+    - ORION (On-Road Integrated Optimization and Navigation) is a proprietary software by UPS for efficient route planning for multi-driver-multi-stop routes.
+    - ORION efficiently solves the traveling salesman problem by determining the fastest and shortest routes.
+    - Methods used by ORION:
+        - Geospatial algorithms for complex metaheuristics.
+        - Algorithms for vehicle routing and scheduling.
+        - A routing engine that assists operators in hasslefree parking, loading-unoading and other issues.
 
 
 ## References

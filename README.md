@@ -2,6 +2,9 @@
 
 Delivery companies always use this type of tools for efficient delivery plans. Here, we have created a tool for efficiently planning the route for delivering automative batteries, where the source of delivery is our battery shop - Debnath Auto Centre, Kolkata. We have some dealers in Kolkata where we deliver automotive batteries in a frequent manner. The issue we are facing right now is that we don't have a proper delivery schedule. Batteries are currently delivered in a scattered manner, which causes much hassle for the delivery guys. Not to mention the excessive usage of fuel. A tool like this can be useful to overcome the aforementioned challenges. 
 
+## What is TSP?
+The travelling salesman problem, also known as the travelling salesperson problem (TSP), asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?" It is an NP-hard problem in combinatorial optimization, important in theoretical computer science and operations research.
+
 ## Strategies/tools used by different companies:
 - ORION (UPS)
     - ORION (On-Road Integrated Optimization and Navigation) is a proprietary software by UPS for efficient route planning for multi-driver-multi-stop routes.
@@ -11,8 +14,6 @@ Delivery companies always use this type of tools for efficient delivery plans. H
         - Algorithms for vehicle routing and scheduling.
         - A routing engine that assists operators in hasslefree parking, loading-unoading and other issues.
 - 
-## What is TSP?
-The travelling salesman problem, also known as the travelling salesperson problem (TSP), asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?" It is an NP-hard problem in combinatorial optimization, important in theoretical computer science and operations research.
 
 
 ## References

@@ -31,3 +31,14 @@ Creating a tool to solve the Traveling Salesman Problem (TSP) using data from Go
 
 10. **Maintenance and Updates**:
    Maintain your tool by addressing any bugs or issues reported by users. Keep it up to date with changes in the Google Maps API or any improvements to the underlying algorithms.
+
+Implementation plan for v1.0:
+- Start with random 10 addresses, and our shop as source.
+- Convert addresses to locations
+- Calculate shortest route using Djikstra's Algorithm
+- Sort the list of destinations as per the route
+- Put the sorted destinations onto Google Maps, generate the path line, with estimated time
+- Done!
+
+Intuition for v2.0:
+- Consider the real-time traffic impact

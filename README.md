@@ -4,6 +4,7 @@ Delivery companies always use this type of tools for efficient delivery plans. H
 
 ## What is TSP?
 The travelling salesman problem, also known as the travelling salesperson problem (TSP), asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?" It is an NP-hard problem in combinatorial optimization, important in theoretical computer science and operations research.
+
 For our use case, a 'city' is the location of a dealer in Kolkata, and the source city is our shop. Thus, we have to find the shortest route, starting from our shop, visiting each location of dealers, and returning back to our shop. Solving this problem will solve the issues like tired deilvery person, extensive time required to achieve the delivery targets set for each day, and high fuel usage.
 
 ## Strategies/tools used by different companies:

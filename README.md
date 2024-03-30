@@ -17,5 +17,6 @@ For our use case, a 'city' is the location of a dealer in Kolkata, and the sourc
         - A routing engine that assists operators in hasslefree parking, loading-unoading and other issues.
 
 ## References
+- [Travelling Salesman Problem (TSP)](https://www.hexaly.com/docs/last/exampletour/tsp.html#)
 - [How do couriers like FedEx plan their routes](https://www.routific.com/blog/how-do-experts-like-fedex-plan-delivery-routes#:~:text=Step%201%3A%20Sort%20routes%20by%20zip%2Fpostal%20code&text=By%20assigning%20each%20zone%20to,a%20shorter%20amount%20of%20time.)
 - [ORION: How Route Optimization Keeps UPS Drivers On Time](https://www.roundtrip.ai/articles/ups-route-optimization-software)

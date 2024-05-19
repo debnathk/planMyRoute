@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Custom Map Tool</title>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDlznrRADI4zB0UxKkZS2iVaP7DJKRHkPM&libraries=places"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div id="map" style="height: 500px; width: 100%;"></div>
+  <div class="controls">
+    <input type="text" id="origin" placeholder="Enter origin">
+    <textarea id="locations" placeholder="Enter locations, one per line"></textarea>
+    <button id="calculateRoute">Calculate Route</button>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

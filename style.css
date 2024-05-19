@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #map {
+    height: 500px;
+    width: 100%;
+  }
+  
+  .controls {
+    margin-top: 10px;
+  }
+  
+  #origin, #locations {
+    width: 300px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  #calculateRoute {
+    display: block;
+  }
+  
